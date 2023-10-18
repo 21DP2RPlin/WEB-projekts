@@ -1,1 +1,1 @@
-# WEB-projekts
+# Projekts Rihards Plinta DP3-2
