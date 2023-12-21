@@ -1,5 +1,5 @@
 # Projekts Rihards Plinta DP3-2
-## Video ka pagaidam izskatas projekts: https://drive.google.com/file/d/1UvoVnKEraOhby97bvAADwZBaEPSadKal/view?usp=sharing
+## Video ka pagaidam izskatas projekts: https://drive.google.com/file/d/13GTFJrOFITx3AjPGjrJ1b5-1vSrAcbtI/view?usp=sharing
 ## Bildes:
 ![projekts1](https://github.com/21DP2RPlin/WEB-projekts/assets/106649131/9aa173d9-357c-4f53-81b0-a9dd9116611a)
 #
