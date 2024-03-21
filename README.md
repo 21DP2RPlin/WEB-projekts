@@ -1,6 +1,6 @@
 # Projekts Rihards Plinta DP3-2
 # Kas jauns:
-## HTML lapa ar aprakstu par konkreto laukumu
+## HTML lapa ar informāciju par konkreto laukumu
 ![image](https://github.com/21DP2RPlin/WEB-projekts/assets/106649131/bb817fd5-c5dc-40bb-b778-49ae5fbfce7f)
 #
 ![image](https://github.com/21DP2RPlin/WEB-projekts/assets/106649131/c1df379d-a774-4f1c-bbb7-c98e8f47fc59)
