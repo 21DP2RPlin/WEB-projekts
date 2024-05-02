@@ -1,1 +1,1 @@
-#nosleguma darbs 
+# noselguma darbs
