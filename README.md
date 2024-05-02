@@ -1,1 +1,1 @@
-nosleguma darbs
+#nosleguma darbs 
