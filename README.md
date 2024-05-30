@@ -1,4 +1,11 @@
 # noselguma darbs
+## Sistēmas izstrades rīku saraksts:
+- HeidiSQL
+- MySQL
+- Laragon
+- HTML, CSS un JavaScript
+- PHP
+- Visual Studio Code
 # Bildes:
 ![image](https://github.com/21DP2RPlin/WEB-projekts/assets/106649131/c218ab2a-b38b-402c-9996-dedee4bba9aa)
 #
